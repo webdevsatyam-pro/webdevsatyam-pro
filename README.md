@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/webdevsatyam-pro/webdevsatyam-pro/blob/main/assets/8a280039-6b53-45ba-b92d-5f57d962b7e0-md.jpeg?raw=true" width="800"/>
+  <img src="https://github.com/webdevsatyam-pro/webdevsatyam-pro/blob/main/assets/8a280039-6b53-45ba-b92d-5f57d962b7e0-md.jpeg?raw=true" width="1000" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Satyam Maurya</h1>
